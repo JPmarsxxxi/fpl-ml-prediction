@@ -1,4 +1,4 @@
-FPL Player Performance Prediction
+FPL Player Performance Prediction Tutorial
 
 Machine learning tutorial demonstrating time-series regression for Fantasy Premier League points prediction with hyperparameter tuning and data leakage analysis.
 
